@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wlsdudwn4412-hue.github.io/sitemap.xml

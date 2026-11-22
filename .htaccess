@@ -1,0 +1,37 @@
+# Apache (Cafe24, Gabia and most shared hosting). Netlify/Vercel/Cloudflare Pages ignore this file.
+Options -Indexes
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+<IfModule mod_rewrite.c>
+RewriteEngine On
+# one canonical host over https
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} !^wlsdudwn4412\-hue\.github\.io$ [NC]
+RewriteRule ^(.*)$ https://wlsdudwn4412-hue.github.io/$1 [R=301,L]
+# add trailing slash to page folders
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule ^(.*)$ https://wlsdudwn4412-hue.github.io/$1/ [R=301,L]
+# /index.html -> folder URL
+RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ https://wlsdudwn4412-hue.github.io/$1 [R=301,L]
+</IfModule>
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/css application/javascript image/svg+xml application/xml text/plain
+</IfModule>
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType text/html "access plus 0 seconds"
+ExpiresByType text/css "access plus 1 year"
+ExpiresByType application/javascript "access plus 1 year"
+ExpiresByType image/webp "access plus 1 month"
+ExpiresByType image/jpeg "access plus 1 month"
+ExpiresByType image/png "access plus 1 month"
+ExpiresByType image/svg+xml "access plus 1 month"
+ExpiresByType video/mp4 "access plus 1 month"
+</IfModule>
+<IfModule mod_headers.c>
+Header always set X-Content-Type-Options "nosniff"
+Header always set Referrer-Policy "strict-origin-when-cross-origin"
+Header always set Strict-Transport-Security "max-age=31536000"
+</IfModule>
