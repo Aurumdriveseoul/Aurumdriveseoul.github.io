@@ -152,7 +152,8 @@
     var a = e.target.closest && e.target.closest('[data-copy]');
     if (!a) return;
     e.preventDefault();
-    var id = a.getAttribute('data-copy'), msg = toast ? toast.dataset.copied : id;
+    var id = a.getAttribute('data-copy'), msg = a.getAttribute('data-msg') || (toast ? toast.dataset.copied : id);
+    if (toast) toast.classList.toggle('toast-wc', a.getAttribute('data-tone') === 'wc');
     var show = function () {
       if (!toast) return;
       toast.textContent = msg; toast.classList.add('show');
