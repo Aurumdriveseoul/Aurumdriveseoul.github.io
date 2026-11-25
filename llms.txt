@@ -1,0 +1,40 @@
+# AURUM Premium Mobility Service
+
+> Private airport transfer service in Seoul, South Korea, using a Tesla Cybertruck and premium vehicles. Serves Incheon (ICN) and Gimpo (GMP) airports with an English-speaking driver, flight tracking and meet & greet.
+
+- Service: Private airport transfer in Seoul by Tesla Cybertruck, with Kia Carnival Hi-Limousine, Genesis Limousine, Mercedes-Benz S-Class and a limousine coach for groups.
+- Airports: Incheon International Airport (ICN, Terminal 1 and 2) and Gimpo International Airport (GMP), arrivals and departures.
+- Service area: Anywhere in Seoul within 60 km of the airport, including Myeongdong, Gangnam, Hongdae, Itaewon and Jamsil.
+- Price: Standard $120 and Premium $180 per vehicle (launch offer). Night 22:00–06:00 +$20, extra stop +$20, round trip +$70.
+- Capacity: Cybertruck: up to 4 passengers and 8 suitcases. Larger groups: Carnival, limousine coach.
+- Included: English-speaking driver, flight tracking, 60 minutes free waiting, name-sign meet & greet, photo moment.
+- Hours: 24 hours a day, 7 days a week. Book by message or online form.
+- Contact: WhatsApp / phone +82-10-3047-9218 · KakaoTalk aurumdrive · WeChat aurumdrive · Instagram @aurumdrive.seoul
+
+## Pages (English)
+- [Home](https://aurumdriveseoul.github.io/): Private Cybertruck transfer between Incheon or Gimpo Airport and Seoul. English-speaking driver, flight tracking, 60 min free waiting. From $120 per vehicle.
+- [Prices](https://aurumdriveseoul.github.io/pricing/): Standard $120, Premium $180 per vehicle. Up to 4 passengers and 8 suitcases, Seoul within 60 km. Night, extra stop and round-trip options.
+- [Incheon Airport](https://aurumdriveseoul.github.io/incheon-airport-transfer/): Private transfer from Incheon Airport (ICN) T1 & T2 to Myeongdong, Gangnam, Hongdae and all of Seoul. Meet & greet and flight tracking, from $120.
+- [Gimpo Airport](https://aurumdriveseoul.github.io/gimpo-airport-transfer/): Private transfer from Gimpo Airport (GMP) to anywhere in Seoul. English-speaking driver, flight tracking and meet & greet, from $120 per vehicle.
+- [Meet & Greet](https://aurumdriveseoul.github.io/meet-and-greet/): Premium arrival at Incheon or Gimpo: meet & escort, car ready at the curb, SIM and transport help, hotel check-in help and a welcome kit. $180.
+- [Our Fleet](https://aurumdriveseoul.github.io/fleet/): Choose your airport transfer vehicle in Seoul: Tesla Cybertruck, Kia Carnival Hi-Limousine, Genesis Limousine, Mercedes-Benz S-Class or a limousine coach for groups.
+- [The Cybertruck](https://aurumdriveseoul.github.io/cybertruck/): Ride a Cybertruck from Incheon or Gimpo Airport into Seoul. Up to 4 passengers and 8 suitcases, all-electric and quiet, photo moment included.
+- [Price Calculator](https://aurumdriveseoul.github.io/price-calculator/): Work out your Incheon or Gimpo airport transfer price in seconds: plan, night service, extra stops, round trip and number of vehicles. Prices in US dollars.
+- [FAQ](https://aurumdriveseoul.github.io/faq/): Prices, waiting time, flight delays, meeting point, luggage, night rides and booking for AURUM Cybertruck airport transfers in Seoul.
+- [Book](https://aurumdriveseoul.github.io/book/): Book a private Cybertruck transfer from Incheon or Gimpo Airport to Seoul. Send your flight details and get a confirmation with your meeting point.
+
+## Other languages
+- 日本語: https://aurumdriveseoul.github.io/ja/
+- 简体中文: https://aurumdriveseoul.github.io/zh/
+- العربية: https://aurumdriveseoul.github.io/ar/
+- हिन्दी: https://aurumdriveseoul.github.io/hi/
+
+## Contact
+- WhatsApp / phone: +82-10-3047-9218 (https://wa.me/821030479218)
+- KakaoTalk ID: aurumdrive
+- WeChat ID: aurumdrive (QR: https://aurumdriveseoul.github.io/wechat.html)
+- Instagram: https://www.instagram.com/aurumdrive.seoul/
+- TikTok: https://www.tiktok.com/@aurumdriveseoul
+- Douyin: aurumdriveseoul
+
+Last updated: 2026-11-25
